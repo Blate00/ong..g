@@ -236,3 +236,11 @@ color: rgb(255, 255, 255);}
     height: 50px;
     background-color:#26282c;
 }
+
+.cajita{
+  border-radius: 10px;
+  margin-left: 20px;
+  margin-bottom: 10px;
+  width: 90px;
+  height: 31px;
+}
